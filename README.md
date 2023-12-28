@@ -1,0 +1,2 @@
+# OpencvSocket
+这是一个使用opencv读取视频并使用socket进行传输视频画面的脚本文件，相较于调用ffmpeg传输节约了90%的数据量
