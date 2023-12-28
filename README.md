@@ -6,6 +6,6 @@
 | --- | --- | --- | --- |
 | **opencv+ffmpeg** | **bytes** |**451584** |**rtsp\rtmp** |
 | **opencv+socket** | **bytes** |**69366** |**tcp**|
-| **pencv+encode+socket** | **bytes** |**18304** |**tcp**|
+| **opencv+encode+socket** | **bytes** |**18304** |**tcp**|
 
 根据上述信息可以看出经过imencode进行压缩jpg数据压缩保留原始30%的数据对图像信息的损失肉眼看不出明显失真且对传输的数据量仅为**opencv+ffmpeg**方式的4.053%
